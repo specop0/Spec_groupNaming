@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ID="Arma3">
+    <Package ID="Spec_groupNaming">
+        <Container ID="General">
+            <Key ID="STR_Spec_groupNaming_Rename">
+                <Original>Rename Group</Original>
+                <English>Rename Group</English>
+                <German>Gruppe umbennen</German>
+            </Key>
+            <Key ID="STR_Spec_groupNaming_DialogTitle">
+                <Original>Rename Group</Original>
+                <English>Rename Group</English>
+                <German>Gruppe umbennen</German>
+            </Key>
+            <Key ID="STR_Spec_groupNaming_DialogNameEntry">
+                <Original>Name</Original>
+                <English>Name</English>
+                <German>Name</German>
+            </Key>
+        </Container>
+    </Package>
+</Project>
